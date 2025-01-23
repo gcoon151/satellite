@@ -237,7 +237,7 @@ A1B0CDefgHilQ11ubmVjdG1yOiJjb11hnTdlWSRE1dnZla1szbDBsZyI-Source-vbfea   myrule  
     If no rules are selected, any client that is connected to the IBM Cloud private network can use the endpoint to connect to the destination resource that runs in your location.
     {: important}
 
-1. On the **Connection settings** page, set an inactivity timeout between 1 and 600.
+1. On the **Connection settings** page, set an inactivity timeout between 1 and 21600.
 
 1. Click **Create endpoint**.
 
